@@ -1,0 +1,36 @@
+┏━━━━━━━━━━/home/wwwlogs/food.fish0915.com.log━━━━━━━━━━┓
+======================= Patterns ======================= 
+(1) phpmyadmin
+(2) PHPMYADMIN
+(3) PetalBot
+(4) 360Spider
+(5) JRO03D
+==================== Whitelist IPs ==================== 
+211.23.22.201
+===================== Log Matched ===================== 
+101.132.106.40 - - [27/Jul/2020:06:38:21 +0800] "GET / HTTP/1.1" 500 170 "-" "Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/[01;31m[KJRO03D[m[K)"
+47.100.1.70 - - [27/Jul/2020:06:40:24 +0800] "GET / HTTP/1.1" 200 4238 "-" "Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/[01;31m[KJRO03D[m[K)"
+101.132.69.5 - - [27/Jul/2020:06:42:58 +0800] "GET / HTTP/1.1" 500 170 "-" "Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/[01;31m[KJRO03D[m[K)"
+
+3 logs matched.
+===================== Weird IPs ===================== 
+     Counts IP
+      1 101.132.106.40
+      1 101.132.69.5
+      1 47.100.1.70
+======================= Action ======================= 
+Put IP: 101.132.106.40 into deny.sh 
+
+[31;49m101.132.106.40 has been in deny list![0m
+
+Put IP: 101.132.69.5 into deny.sh 
+
+[31;49m101.132.69.5 has been in deny list![0m
+
+Put IP: 47.100.1.70 into deny.sh 
+
+[31;49m47.100.1.70 has been in deny list![0m
+
+
+
+Done.

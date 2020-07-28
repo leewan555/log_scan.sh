@@ -1,0 +1,12 @@
+/home/wwwlogs/access.log
+/home/wwwlogs/food.fish0915.com.log
+/home/wwwlogs/health.szqunyinghr.com.log
+/home/wwwlogs/kaohsiungeat.fish0915.com.log
+/home/wwwlogs/newgame.fish0915.com.log
+/home/wwwlogs/pingtungeat.fish0915.com.log
+/home/wwwlogs/taichungeat.fish0915.com.log
+/home/wwwlogs/taipeieat.fish0915.com.log
+/home/wwwlogs/taoyuaneat.fish0915.com.log
+/home/wwwlogs/test.fish0915.com.log
+/home/wwwlogs/wan.fish0915.com.log
+/home/wwwlogs/zabbix_server.log

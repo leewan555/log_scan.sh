@@ -1,0 +1,4 @@
+нье╗
+find /home/wwwlogs/*.log | xargs -I @ sh run_scan.sh @ | tee $(date +%Y-%m-%d_%H%M.scan.log)
+
+./log_scan.sh | tee $(date +%Y-%m-%d_%H%M.scan.log)
